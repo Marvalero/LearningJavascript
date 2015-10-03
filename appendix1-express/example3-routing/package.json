@@ -1,0 +1,14 @@
+{
+  "name": "example3-routing",
+  "version": "1.0.0",
+  "description": "Express routing example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maria Valero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
