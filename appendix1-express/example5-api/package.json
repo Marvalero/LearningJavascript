@@ -1,0 +1,15 @@
+{
+  "name": "random-number-api",
+  "version": "1.0.0",
+  "description": "Api About random numbers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maria Valero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "morgan": "^1.6.1"
+  }
+}

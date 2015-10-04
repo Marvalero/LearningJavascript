@@ -1,0 +1,20 @@
+{
+  "name": "example6-testing",
+  "version": "1.0.0",
+  "description": "Testing javascript application with mocha",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maria Valero",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.3.0",
+    "express": "^4.13.3",
+    "mocha": "^2.3.3",
+    "morgan": "^1.6.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}

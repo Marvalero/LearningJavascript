@@ -1,0 +1,19 @@
+{
+  "name": "example7-testing-apis",
+  "version": "1.0.0",
+  "description": "Testing an api",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "mocha"
+  },
+  "author": "Maria Valero",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "express": "^4.13.3",
+    "mocha": "^2.3.3",
+    "morgan": "^1.6.1",
+    "supertest": "^1.1.0"
+  }
+}
